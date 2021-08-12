@@ -1,0 +1,22 @@
+p::first-letter{
+    font-size: 60px;
+    color: salmon;
+}
+
+a:link{
+    color: darkgreen;
+}
+a:visited{
+    color: brown;
+}
+
+a:hover{
+    color: yellow;
+} 
+
+a:active{
+    color: blue
+}
+
+
+
